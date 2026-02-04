@@ -40,8 +40,8 @@ I'm passionate about **Coding, DSA, and Web Development**, and my goal is to cra
 ---
 
 ### 🏆 Achievements
-- 💻 Solved **200+ Competitive Programming** problems on **Codeforces**
-- 💻 Solved **400+ DSA** problems on **LeetCode**
+- 💻 Solved **300+ Competitive Programming** problems on **Codeforces**
+- 💻 Solved **600+ DSA** problems on **LeetCode**
 - 🚀 Regularly participating in contests to improve consistency and speed
 - 🧩 Building full-stack projects integrating **Frontend + Backend + Database**
 
