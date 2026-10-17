@@ -1,6 +1,6 @@
 # Hey there, I'm Vikash! 👋  
 
-I'm an final year undergraduate student pursuing B.Tech in **Electronics and Communication Engineering (ECE)** from **NIT Patna**.  
+I'm a final year undergraduate student pursuing B.Tech in **Electronics and Communication Engineering (ECE)** from **NIT Patna**.  
 I'm passionate about **Coding, DSA, and Web Development** 💻 . 
 
 ---
